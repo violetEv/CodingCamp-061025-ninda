@@ -1,4 +1,4 @@
-greetUser();
+// greetUser();
 
 
 /// Function to greet the user by name
